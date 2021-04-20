@@ -15,15 +15,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 // Store the API query variables.
 var baseURL = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson";
   
-// var date = features.properties.time
-// var feature
-// var magnitude = features.properties.mag
-// var size = 
-// var place = features.properties.place
-// var lat = features.geometry.coordinates[0]
-// var long = features.geometry.coordinates[1]
-// var depth = features.geometry.coordinates[2]
-// var earthquakes = []
+
 
 /////////////////////////////////////  
 //// Import & Visualize the Data ////
